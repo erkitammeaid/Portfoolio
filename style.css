@@ -17,11 +17,52 @@
 
 .janku{
 
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    height: 136px;
-    width: 12px;
+    
+    height: 200px;
+    width: 60px;
+    color: red;
+}
+.janesepic{
+    
+
+    position: absolute;
+    width: 193px;
+    height: 407px;
+    left: 183px;
+    top: 256px;
+
+background: url(.png);
+
 }
 
+.uks{
+    
+
+position: absolute;
+left: 10.71%;
+right: 55.54%;
+top: 60.74%;
+bottom: 9.3%;
+
+background: #3A8021;
+
+}
+
+.roheline{
+    
+
+
+background: #99D33C;
+border: 1px solid #57C268;
+
+
+}
+.sinine{
+    
+    
+    
+
+}
 
 
 
