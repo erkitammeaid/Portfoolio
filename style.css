@@ -148,7 +148,7 @@ nav img{
 
 /* CV */
 .cv{
-    
+    height: 900px;
 }
 
 .CVhead{
@@ -185,7 +185,9 @@ nav img{
 .contact{
     border: 1px, solid, red;
     background-color:  #99D33C;
-    margin: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
     height: 425px;
     
     border-radius: 10px;
@@ -239,12 +241,75 @@ nav img{
     border-radius: 10px;
 }
 
-@media screen and (min-width: 550){
+
+
+@media (min-width: 1000px) {
+
 
     .Avaleht h1{
-        left: 100px;
-        top: 100px;
-        font-size: 5rem;
+        left: 400px;
+        top: 200px;
+        font-size: 6rem;
+    }
+
+
+    /* Tutvustus */
+
+
+    .cv{
+        height: 700px;
+    }
+
+    .CVtxt{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    
+    .CVhead img{
+        margin-right: 200px;
+    }
+
+    .CVhead h1{
+        margin-left: 200px;
+    }
+
+
+    /* Kontakt */
+
+    .contact{
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+}
+
+@media (min-width: 1500px){
+
+    /* Tutvustus */
+
+    .cv{
+        height: 700px;
+    }
+
+    .CVtxt{
+        margin-left: 500px;
+        margin-right: 500px;
+    }
+    
+    .CVhead img{
+        margin-right: 500px;
+    }
+
+    .CVhead h1{
+        margin-left: 500px;
+    }
+
+
+    /* Kontakt */
+
+    .contact{
+        margin-left: 500px;
+        margin-right: 500px;
     }
 
 }
