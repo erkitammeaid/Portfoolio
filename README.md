@@ -3,7 +3,7 @@
 ## Tiimi liikmete nimed:
 - Andero Mägi _TAK-20_
 - Anni Aavik _TAK-21_
-- Erki Tammeaid _TAK-21_
+- Erki Tammeaid _TAK-19_
 - Jana Kindlam _TA-21_
 - Karl Andreas Mätlik _TAK-21_
 - Külle Andreas _KIG-21_
