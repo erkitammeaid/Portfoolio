@@ -148,7 +148,7 @@ nav img{
 
 /* CV */
 .cv{
-    height: 900px;
+    height: 500px;
 }
 
 .CVhead{
@@ -175,8 +175,8 @@ nav img{
     margin-top: 50px;
     margin-left: 25px;
     margin-right: 25px;
-    margin-bottom: 2px;
-    height: 400px;
+    margin-bottom: 25px;
+    height: 300px;
     text-align: center;
 }
 
@@ -257,7 +257,7 @@ nav img{
 
 
     .cv{
-        height: 700px;
+        height: 400px;
     }
 
     .CVtxt{
@@ -288,7 +288,7 @@ nav img{
     /* Tutvustus */
 
     .cv{
-        height: 700px;
+        height: 500px;
     }
 
     .CVtxt{
