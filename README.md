@@ -19,7 +19,8 @@ Töö prototüüp ja töölaud - [Figma töölaud](https://www.figma.com/file/Sj
 
 
 ## Küsimused 
-**Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?** 
+**Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**
+
 Andero:
 
 Aavik: Jäin enda ülesannetega rahule.
@@ -39,6 +40,7 @@ Timo:  Ei, sobis antud ülesanne.
  
 
 **Üks pehme oskus, mida õppisin ja endas arendasin?**
+
 Andero: 
 
 Aavik: Ilmselt midagi ikka. Vahel paneme me endale asju kõrva taha, ilma et me seda ise märkaks.
@@ -58,7 +60,8 @@ Timo: Natuke tiimi suunamist ja tehniliste probleemide selgitamist.
 
  
 
-**Üks tehniline oskus, mida õppisin ja endas arendasin?** 
+**Üks tehniline oskus, mida õppisin ja endas arendasin?**
+
 Andero:
 
 Aavik: Tutvusin veel lähemalt Figmaga, oskan seal uusi asju nagu näiteks kaardus nooli teha.
